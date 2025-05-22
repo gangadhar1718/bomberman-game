@@ -98,19 +98,3 @@ The game will use built-in fallback graphics if the asset files are not found, m
 
 This game was created as a learning project and is inspired by the classic Bomberman game series.
 
-## License
-
-[MIT License](LICENSE)
-
-To complete the repository setup, you should also create:
-
-1. A `requirements.txt` file with:
-    ```
-    pygame>=2.1.0
-    ```
-
-2. A `screenshots` folder with at least one gameplay screenshot (you can take this once your game is running)
-
-3. Make sure your `assets` folder is included in the repository structure, even if it's empty. You can add a `.gitkeep` file to ensure the folder is tracked by Git.
-
-This README provides clear instructions for anyone who wants to clone and run your game, explains the file structure, and includes detailed gameplay instructions. The development notes section gives other developers insight into how the game is structured if they want to modify or learn from your code.
