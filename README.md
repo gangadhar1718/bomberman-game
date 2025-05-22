@@ -3,7 +3,7 @@
 
 A classic Bomberman-style game built with Pygame featuring multiple levels, enemies, and destructible environments.
 
-![Bomberman Game Screenshot](screenshots/gameplay.png)
+
 
 ## Features
 
